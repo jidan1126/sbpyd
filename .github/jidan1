@@ -1,0 +1,15 @@
+[
+  {
+    "enable": true,
+    "alias": "02XD",
+    "phone": "18300675973",
+    "password": "zxcv123.",
+    "deviceType": "Redmi|k40|12",
+    "deviceId": "d188d1b90ba94f1cbb441ee055c5c832dc1e",
+    "randomLocation": true,
+    "address": "中国河南省郑州市金水区大石桥街道",
+    "longitude": "113.657777",
+    "latitude": "34.768679",
+    "pushKey": "7c4aebf149ed4997b2d620cc2d8fa971"
+  }
+]
